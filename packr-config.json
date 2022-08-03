@@ -1,0 +1,17 @@
+{
+    "platform": "windows64",
+    "jdk": "./OpenJDK.zip",
+    "executable": "SpaceGame",
+    "classpath": ["./magmagame.jar"],
+    "removelibs": ["./magmagame.jar"],
+    "mainclass": "com.magma.space.desktop.DesktopLauncher",
+    "resources": [
+
+    ],
+    "vmargs": [
+        "Xms512M",
+        "Xmx512M"
+    ],
+    "minimizejre": "soft",
+    "output": "/gets/overriden/"
+}
