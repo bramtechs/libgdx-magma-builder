@@ -1,1 +1,1 @@
-./build.ps1 sapce-desktop
+./build.ps1 space-desktop
